@@ -1,0 +1,18 @@
+3. Para el siguiente ejercicio, van a tener que trabajar en equipo, con sus compañeros de 
+mesa.
+a) El facilitador de cada equipo debe crear un repositorio público con el nombre 
+practica_github seleccionando la opción Initialize this repository with a README. 
+b) Una vez creado el repositorio el facilitador debe invitar a los integrantes de su mesa 
+al mismo. Clickear en el botón Invite a collaborator y buscar a los miembros de su 
+mesa por username o email. 
+c) Cada miembro debe aceptar la invitación al repositorio. Checkear la invitación el 
+email y clickear en View Invitation.
+d) Clonar el repositorio. Cada miembro del equipo debe clonar el repositorio con el 
+archivo ReadMe. Luego de aceptar la invitación github te redirige al repositorio.
+e) Cada miembro de la mesa, incluido el facilitador, debe crear su propia rama para 
+trabajar sobre el archivo ReadMe
+f) Ahora cada miembro de la mesa, debe incluir su nombre en el archivo ReadMe de 
+manera local y subirlo a su rama.
+g) Cuando todos los miembros de la mesa han agregado su nombre al archivo ReadMe, 
+de uno en uno, ir uniendo en la rama master todos vuestros cambios. Al final les 
+debería quedar un archivo ReadMe con todos sus nombre.
