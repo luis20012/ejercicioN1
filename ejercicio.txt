@@ -16,3 +16,5 @@ manera local y subirlo a su rama.
 g) Cuando todos los miembros de la mesa han agregado su nombre al archivo ReadMe, 
 de uno en uno, ir uniendo en la rama master todos vuestros cambios. Al final les 
 debería quedar un archivo ReadMe con todos sus nombre.
+hhfdh  ças
+ururejkjhf
